@@ -1,0 +1,10 @@
+Program specification:
+Webpage: two windows - top and bottom
+Top window: 2 buttons to control which 1 of 2 webpages  (page2.htm and page3.htm) is loaded in the bottom window
+Bottom window: webpage loaded from 1 of 2 buttons in top window
+
+Can you write the code for this specification?
+
+Can you write an HTML document that plays the following video segment?
+https://www.youtube.com/watch?v=1h4mAceHmrI&list=RD1h4mAceHmrI&start_radio=1
+
